@@ -1,5 +1,5 @@
-import { Card } from "../ui/dashboard/cards";
-import DashboardSkeleton from "../ui/skeletons";
+import { Card } from "@/app/ui/dashboard/cards";
+import DashboardSkeleton from "@/app/ui/skeletons";
 
 export default function Page() {
     return (
