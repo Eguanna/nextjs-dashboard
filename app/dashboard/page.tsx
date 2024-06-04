@@ -1,3 +1,9 @@
+import { Card } from "../ui/dashboard/cards";
+import DashboardSkeleton from "../ui/skeletons";
+
 export default function Page() {
-    return (<p>Dashboard Page</p>);
+    return (
+        // <DashboardSkeleton />
+    <p>Dashboard Page</p>
+    );
 }
