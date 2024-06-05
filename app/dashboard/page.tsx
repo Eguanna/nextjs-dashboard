@@ -28,7 +28,6 @@ export default async function Page() {
             <RevenueChart revenue={revenue} />
             <LatestInvoices latestInvoices={latestInvoices} />
         </div>
-        
     </main>
     );
 }
