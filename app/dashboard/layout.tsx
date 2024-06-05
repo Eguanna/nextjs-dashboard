@@ -1,5 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
-import LatestInvoices from '../ui/dashboard/latest-invoices';
+import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
 
 export default function Layout({children}: {children: React.ReactNode}) {
     
